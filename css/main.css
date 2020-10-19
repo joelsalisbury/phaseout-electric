@@ -118,7 +118,7 @@ textarea {
 
     .navbar {
       background-color:#403D58;
-      height: 85px;;
+      min-height: 85px;;
     }
     .btn {
       text-transform: uppercase;
