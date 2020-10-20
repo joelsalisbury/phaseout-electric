@@ -161,7 +161,7 @@ textarea {
    }
 
    .jumbotron--interior{
-    background: linear-gradient( rgba(17, 175, 244, 0.9), rgba(17, 175, 244, 0.8) ), url(../img/hero/2.jpg);
+    background: linear-gradient(rgba(17, 175, 244, 0.7), rgba(64,61,88, 0.4) ), url(../img/energy-home-house-roof-2850475.jpg);
     background-repeat:no-repeat;
     border-radius: 0;
     background-size: cover;
@@ -173,6 +173,20 @@ textarea {
     /* text-shadow: #333 1px 1px 8px; */
     margin:0px;
  }
+
+ .jumbotron--contact{
+  background: linear-gradient(rgba(17, 175, 244, 0.7), rgba(64,61,88, 0.4) ), url(../img/ernest-brillo-9_vReDaom2Q-unsplash.jpg);
+  background-repeat:no-repeat;
+  border-radius: 0;
+  background-size: cover;
+  color:#fff;
+  min-height:35vh;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  /* text-shadow: #333 1px 1px 8px; */
+  margin:0px;
+}
 
    .jumbotron h1 {
      font-size:4.5rem;
