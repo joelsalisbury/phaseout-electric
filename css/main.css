@@ -216,7 +216,7 @@ textarea {
   }
 
   .row--service-elec .column--photo-bg{
-    background-image:linear-gradient(rgba(17, 175, 244, 0.7), rgba(64,61,88, 0.4) ), url(../img/sebastian-pociecha-LfDFvUlUIDo-unsplash.jpg);
+    background-image:linear-gradient(rgba(17, 175, 244, 0.7), rgba(64,61,88, 0.4) ), url(../img/sebastian-pociecha-LfDFvUlUIDo-unsplash_sm.jpg);
   }
 
   .row--service-om .column--photo-bg {
@@ -236,8 +236,13 @@ textarea {
   }
 
   .footer-subfooter {
-    background-color:#e3e3e3;
+    padding-top:25px;
+    background: rgba(64,61,88, 0.9) url(../img/pattern2.png);
     min-height: 300px;
+  }
+
+  .footer-subfooter h2 {
+    color:#fff;
   }
 
 /* ==========================================================================
