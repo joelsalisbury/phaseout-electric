@@ -259,6 +259,16 @@ textarea {
     color:#fff;
   }
 
+  .footer--main {
+    text-align: center;
+    padding-top:10px;
+    padding-bottom:10px;
+  }
+
+  .footer--main img {
+    max-width: 80px;
+  }
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
